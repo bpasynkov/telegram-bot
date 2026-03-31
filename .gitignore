@@ -1,0 +1,12 @@
+# Игнорировать папку target внутри внутренней папки telegram-bot
+/telegram-bot/target/
+
+# IDE
+.vscode/
+.idea/
+
+# Логи
+*.log
+
+# Файлы окружения
+.env
